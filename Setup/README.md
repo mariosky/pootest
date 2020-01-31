@@ -8,7 +8,7 @@ es bajar el archivo de instalación del siguiente
 Es importante bajar el SDK Core, por que **vamos a programar**.
 
 La página se ve así:
-[sadsa](./img/core.png)
+![sadsa](./img/core.png)
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
